@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<env>
+	<territories>
+		<!-- Copy into cfgenvironment.xml -->
+		<file path="env/bloodsucker_territories.xml" />
+		<!-- End -->
+	</territories>
+</env>
