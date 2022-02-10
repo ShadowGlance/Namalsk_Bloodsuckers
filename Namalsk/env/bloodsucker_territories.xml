@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="2097173760">
+         <!-- C130 -->
+        <zone name="InfectedBloodsucker" smin="0" smax="2" dmin="1" dmax="3" x="3207" z="7510" r="50"/>
+        <!-- Tunnel North -->
+        <zone name="InfectedBloodsucker" smin="0" smax="2" dmin="1" dmax="3" x="3586.98" z="6799.53" r="10"/>
+        <!-- Tunnel Mid -->
+        <zone name="InfectedBloodsucker" smin="0" smax="2" dmin="1" dmax="3" x="3611.15" z="6523.58" r="10"/>
+        <!-- Tunnel South -->
+        <zone name="InfectedBloodsucker" smin="0" smax="2" dmin="1" dmax="3" x="3651.76" z="6328.95" r="10"/>
+        <!-- Sub -->
+        <zone name="InfectedBloodsucker" smin="0" smax="2" dmin="1" dmax="3" x="11908" z="12016" r="50"/>
+        <!-- TF Bering Outpost -->
+        <zone name="InfectedBloodsucker" smin="0" smax="2" dmin="1" dmax="3" x="1214" z="11842" r="50"/>
+        <!-- A2 -->
+        <zone name="InfectedBloodsucker" smin="0" smax="2" dmin="1" dmax="3" x="4977.38" z="6607" r="50"/>
+        <!-- A1 -->
+        <zone name="InfectedBloodsucker" smin="0" smax="2" dmin="1" dmax="3" x="3776" z="8244" r="50"/>
+        <!-- Seraja --> 
+        <zone name="InfectedBloodsucker" smin="0" smax="2" dmin="1" dmax="3" x="4164.2" z="6629.7" r="10"/>
+    </territory>
+</territory-type>
