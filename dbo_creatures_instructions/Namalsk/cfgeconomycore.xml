@@ -3,9 +3,9 @@
 	
 	<!-- Copy Into cfgeconomycore.xml -->
 	<ce folder="bloodsuckers_ce">
-		<file name="bloodsuckers_events.xml" type="types" />
-		<file name="bloodsuckers_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="bloodsuckers_events.xml" type="events" />
+		<file name="bloodsuckers_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="bloodsuckers_types.xml" type="types" />
 	</ce>
 	<!-- End -->
 </economycore>
