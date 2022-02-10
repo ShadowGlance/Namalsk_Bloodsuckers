@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
+
+<!-- Copy into zombie_territories.xml -->
     <territory color="2097173760">
          <!-- C130 -->
         <zone name="InfectedBloodsucker" smin="0" smax="2" dmin="1" dmax="3" x="3207" z="7510" r="50"/>
@@ -20,4 +22,6 @@
         <!-- Seraja --> 
         <zone name="InfectedBloodsucker" smin="0" smax="2" dmin="1" dmax="3" x="4164.2" z="6629.7" r="10"/>
     </territory>
+	
+	<!-- End Copy -->
 </territory-type>
